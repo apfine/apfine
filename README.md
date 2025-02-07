@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apfine
-- 👀 I’m interested in creating intelligence.
+- 👀 I’m interested in creating integrable intelligence.
 - 🌱 I’m currently learning float(inf).
 - 💞️ I’m looking to collaborate on ....(will update )
 - 📫 How to reach me ...(will update)
