@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning float(inf).
 - 💞️ I’m looking to collaborate on ....(will update )
 - 📫 How to reach me ...(will update)
-- ⚡ Fun fact: music and programming fight each other for me 😎.
+- ⚡ Fun fact: music , programming , math and physics fight each other for me 😎.
 
 <!---
 apfine/apfine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
