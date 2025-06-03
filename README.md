@@ -29,9 +29,9 @@
 |------------------------|-------------------------------------------------------------------------------------------|----------------|
 | **🧠 AI & ML**         | `Python`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Keras`, `NLP`, `Computer Vision`        | `ACTIVE`       |
 | **🚀 Backend Systems** | `C++ (High Perf)`, `Python (FastAPI, Django)`, `Node.js (Express.js)`, `C (Systems Prog)` | `ENGAGED`      |
-| **🌐 Frontend & Web**  | `JavaScript (ESNext)`, `React`, `MERN Stack`, `HTML5`, `CSS3`, `Next.js` (Learning)       | `SYNCHRONIZED` |
+| **🌐 Frontend & Web**  | `JavaScript (ESNext)`, `React`, `MERN Stack`, `HTML5`, `CSS3`, `Next.js`                   | `SYNCHRONIZED` |
 | **🛠️ Tools & Platforms** | `Git`, `Docker`, `Kubernetes (Basic)`, `AWS`, `GCP`, `MongoDB`, `PostgreSQL`, `Linux`    | `OPERATIONAL`  |
-| **⚡️ Low-Level & Perf**| `C`, `C++`, `Assembly (Conceptual)`, `Multithreading`, `Optimization`                       | `OPTIMIZED`    |
+| **⚡️ Low-Level & Perf**| `C`, `C++`, `Assembly (Conceptual)`, `Optimization`                                         | `OPTIMIZED`    |
 
 </div>
 
