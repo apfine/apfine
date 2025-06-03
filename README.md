@@ -80,13 +80,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&layout=compact&langs_count=8&theme=moltack&card_width=320"/>
 </div>
 
----
 
-<div align="center">
-  <samp>
-    > End of Transmission_ // AP_Profile v2. futuristic // System Standby_ <br>
-    > Last Sync: < Current_Date_Placeholder >
-  </samp>
-  <br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Milky%20Way.png" alt="Milky Way" width="50" height="50" />
-</div>
