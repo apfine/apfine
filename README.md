@@ -2,7 +2,7 @@
 
   <!-- === AP_BANNER.SVG === -->
   <!-- This path assumes ap_banner.svg is in the root of this repository -->
-  <img src="https://raw.githubusercontent.com/apfine/apfine/main/ap_banner.svg" alt="AP - Apex Projects Banner" />
+  <img src="https://github.com/apfine/apfine/blob/9645498e94d0b7a1dfd6ab0d49b21a7b9f6ec58f/ap_banner.svg" alt="AP - Apex Projects Banner" />
 
   <br>
 
