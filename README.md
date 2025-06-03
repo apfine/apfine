@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apfine
+- 👋 Hi, I’m AP.
 - 👀 I’m interested in creating integrable intelligence.
 - 🌱 I’m currently learning float(inf).
 - 💞️ I’m looking to collaborate on ....(will update )
