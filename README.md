@@ -21,7 +21,7 @@
 
 ---
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="35" height="35" /></picture> CORE DIRECTIVES // SKILL MATRIX
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="35" height="35" /></picture> CORE DIRECTIVES  + SKILL MATRIX
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" /></picture> CURRENT TRANSMISSIONS // ACTIVE PROJECTS
+## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" /></picture> CURRENT TRANSMISSIONS + ACTIVE PROJECTS
 
 > Status: `COMPILING_PROJECT_DATA...` Please stand by.
 
