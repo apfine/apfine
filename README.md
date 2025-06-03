@@ -2,7 +2,7 @@
 
   <!-- === AP_BANNER.SVG === -->
   <!-- This path assumes ap_banner.svg is in the root of this repository -->
-  <img src="https://github.com/apfine/apfine/blob/9645498e94d0b7a1dfd6ab0d49b21a7b9f6ec58f/ap_banner.svg" alt="AP - Apex Projects Banner" />
+  <img src="./ap_banner.svg" alt="AP - Apex Projects Banner" />
 
   <br>
 
@@ -72,7 +72,7 @@
 
 ---
 
-## <picture><img width="50" height="50" src="https://img.icons8.com/ios/50/youtube-live.png" alt="youtube-live"/></picture> GITHUB ACTIVITY FEED +  DATA STREAM
+## <picture><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-live.png" alt="youtube-live"/></picture> GITHUB ACTIVITY FEED +  DATA STREAM
 
 <!-- GitHub Stats Cards - Update `?username=YOUR_USERNAME` -->
 <div align="center">
