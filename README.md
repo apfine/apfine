@@ -53,10 +53,10 @@
 <div align="center">
 
   <a href="https://github.com/apfine" target="_blank">
-    <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/>
+    <img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/github.png" alt="github"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/>
+    <img width="24" height="24" src="https://img.icons8.com/material-outlined/24/linkedin--v1.png" alt="linkedin--v1"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/mail--v1.png" alt="mail--v1"/>
