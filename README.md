@@ -56,7 +56,7 @@
     <img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/github.png" alt="github"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img width="24" height="24" src="https://img.icons8.com/material-outlined/24/linkedin--v1.png" alt="linkedin--v1"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/mail--v1.png" alt="mail--v1"/>
