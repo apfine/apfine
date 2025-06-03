@@ -25,14 +25,14 @@
     </defs>
 
     <!-- Rounded, shiny background rectangle -->
-    <rect x="0" y="0" width="100%" height="100%" rx="20" ry="20" fill="url(#shinyBackgroundGradient)" stroke="#1f1f30" stroke-width="1"/>
+    <rect x="0" y="0" width="100%" height="100%" rx="40" ry="40" fill="url(#shinyBackgroundGradient)" stroke="#1f1f30" stroke-width="1"/>
 
     <!-- Main Title -->
     <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" font-size="48" fill="url(#neonTextGradient)" filter="url(#glow)" letter-spacing="3" style="font-weight: 700;">
         AP
     </text>
     <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" font-size="18" fill="#9A76F2" letter-spacing="2">
-        [ ΛPΞX PRØJECTS // FUTURE FORGED ]
+        [ ΛPΞX PRØJECTS -> FUTURE FORGED ]
     </text>
 
     <!-- Animated "Data Stream" / "Loading Bar" -->
