@@ -21,7 +21,7 @@
 
 ---
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Rocket.png" alt="Rocket" width="35" height="35" /></picture> CORE DIRECTIVES  + SKILL MATRIX
+## <picture><img width="50" height="50" src="https://img.icons8.com/pulsar-gradient/50/admin-settings-male.png" alt="admin-settings-male"/></picture> CORE DIRECTIVES  + SKILL MATRIX
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="35" height="35" /></picture> CURRENT TRANSMISSIONS + ACTIVE PROJECTS
+## <picture><img width="64" height="64" src="https://img.icons8.com/nolan/64/project.png" alt="project"/></picture> CURRENT TRANSMISSIONS + ACTIVE PROJECTS
 
 > Status: `COMPILING_PROJECT_DATA...` Please stand by.
 
@@ -48,7 +48,7 @@
 
 ---
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/High%20Voltage.png" alt="High Voltage" width="35" height="35" /></picture> CONNECT TO THE NEXUS
+## <picture><img width="48" height="48" src="https://img.icons8.com/fluency/48/share-2.png" alt="share-2"/></picture> CONNECT TO THE NEXUS
 
 <div align="center">
 
@@ -72,7 +72,7 @@
 
 ---
 
-## <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite Antenna" width="35" height="35" /></picture> GITHUB ACTIVITY FEED // DATA STREAM
+## <picture><img width="50" height="50" src="https://img.icons8.com/ios/50/youtube-live.png" alt="youtube-live"/></picture> GITHUB ACTIVITY FEED +  DATA STREAM
 
 <!-- GitHub Stats Cards - Update `?username=YOUR_USERNAME` -->
 <div align="center">
