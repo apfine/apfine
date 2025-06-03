@@ -24,9 +24,9 @@
 
 <div align="center">
 
-| DOMAIN                 | TECHNOLOGIES / FRAMEWORKS                                                                 | STΛTUS        |
+| DOMAIN                 | TECHNOLOGIES / FRAMEWORKS / SKILLS                                                                 | STΛTUS        |
 |------------------------|-------------------------------------------------------------------------------------------|----------------|
-| **🧠 AI & ML**         | `Python`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Keras`, `NLP`, `Computer Vision`        | `ACTIVE`       |
+| **🧠 AI & ML**         | `Python`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Keras`, `NLP`, `Computer Vision` , `Transformers` , `Tuning CNNs and LLMs`        | `ACTIVE`       |
 | **🚀 Backend Systems** | `C++ (High Perf)`, `Python (FastAPI, Django)`, `Node.js (Express.js)`, `C (Systems Prog)` | `ENGAGED`      |
 | **🌐 Frontend & Web**  | `JavaScript (ESNext)`, `React`, `MERN Stack`, `HTML5`, `CSS3`, `Next.js`  , `TailWindCSS`   , `BootStrap` , `Framer`                | `SYNCHRONIZED` |
 | **🛠️ Tools & Platforms** | `Git`, `Docker`, `Kubernetes (Basic)`, `AWS`, `GCP`, `MongoDB`, `PostgreSQL`, `Linux`    | `OPERATIONAL`  |
