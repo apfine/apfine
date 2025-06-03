@@ -52,14 +52,14 @@
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub">
+  <a href="https://github.com/apfine" target="_blank">
+    <img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn">
+    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/mail--v1.png" alt="mail--v1"/>
   </a>
   <!-- Add other relevant links: Portfolio, Twitter, etc. -->
   <!-- Example:
