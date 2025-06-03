@@ -1,7 +1,6 @@
 <div align="center">
 
   <!-- === AP_BANNER.SVG === -->
-  <!-- This path assumes ap_banner.svg is in the root of this repository -->
   <img src="./ap_banner.svg" alt="AP - Apex Projects Banner" />
 
   <br>
@@ -74,7 +73,7 @@
 
 ## <picture><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-live.png" alt="youtube-live"/></picture> GITHUB ACTIVITY FEED +  DATA STREAM
 
-<!-- GitHub Stats Cards - Update `?username=YOUR_USERNAME` -->
+<!-- GitHub Stats Cards - Update` -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apfine&show_icons=true&theme=radical&include_all_commits=true&count_private=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&layout=compact&langs_count=8&theme=moltack&card_width=320"/>
