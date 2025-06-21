@@ -26,10 +26,10 @@
 
 | DOMAIN                 | TECHNOLOGIES / FRAMEWORKS / SKILLS                                                                 | STΛTUS        |
 |------------------------|-------------------------------------------------------------------------------------------|----------------|
-| **🧠 AI & ML**         | `Python`, `TensorFlow`, `PyTorch`, `Scikit-learn`, `Keras`, `NLP`, `Computer Vision` , `Transformers` , `Tuning CNNs and LLMs`        | `ACTIVE`       |
-| **🚀 Backend Systems** | `C++ (High Perf)`, `Python (FastAPI, Django)`, `Node.js (Express.js)`, `C (Systems Prog)` | `ENGAGED`      |
+| **🧠 AI & ML**         | `Python`, `TensorFlow`, `PyTorch`, `NLP`, `Computer Vision` , `Transformers` , `Tuning CNNs and LLMs`        | `ACTIVE`       |
+| **🚀 Backend Systems** | `C++ (High Perf)`, `Python (FastAPI)`, `Node.js (Express.js)`, `C (Systems Prog)` | `ENGAGED`      |
 | **🌐 Frontend & Web**  | `JavaScript (ESNext)`, `React`, `MERN Stack`, `HTML5`, `CSS3`, `Next.js`  , `TailWindCSS`   , `BootStrap` , `Framer`                | `SYNCHRONIZED` |
-| **🛠️ Tools & Platforms** | `Git`, `Docker`, `Kubernetes (Basic)`, `AWS`, `GCP`, `MongoDB`, `PostgreSQL`, `Linux`    | `OPERATIONAL`  |
+| **🛠️ Tools & Platforms** | `Git`, `Docker`, `Kubernetes (Basic)`, `AWS`, `GCP`, `MongoDB`   | `OPERATIONAL`  |
 | **⚡️ Low-Level & Perf**| `C`, `C++`, `Assembly (Conceptual)`, `Optimization`  , `DSA` , `CP`                        | `OPTIMIZED`    |
 | **🤖 Robotics**| `Raspbery PI` , `Arduino Uno` , `ESP-32` , `PCB-Design` , `Electronics & Hardware`                  | `ACTIVE`  |
 
