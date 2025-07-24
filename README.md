@@ -11,7 +11,7 @@
 
   ---
 
-  <h3><samp> Greetings, Entity. I am <strong>AP</strong>. </samp></h3>
+  <h3><samp> Greetings, Entity. I am <strong>Adarsh Pandey</strong>. </samp></h3>
   <p><samp>
     A full-spectrum developer and AI architect navigating the frontiers of technology. My core mission is to engineer intelligent, high-performance systems and craft immersive digital experiences. From the foundational logic of C to the complex neural pathways of AI, I orchestrate data and algorithms to forge the future.
   </samp></p>
