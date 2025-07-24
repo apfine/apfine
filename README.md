@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- === AP_BANNER.SVG === -->
-  <img src="./ap_banner.svg" alt="AP - Apex Projects Banner" />
+  <img src="./ap_banner.svg" alt="Adarsh Pandey" />
 
   <br>
 
