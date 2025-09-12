@@ -55,7 +55,7 @@
   <a href="https://github.com/apfine" target="_blank">
     <img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/github.png" alt="github"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/aphere" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
   <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
