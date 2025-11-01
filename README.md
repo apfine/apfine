@@ -41,10 +41,9 @@
 
 > Status: `COMPILING_PROJECT_DATA...` Please stand by.
 
-*   **Project Hyperion (AI):** Developing a novel reinforcement learning agent for complex strategic simulations. `[STATUS: In-Dev]`
+*   **Astro Alliance Website** Developed complete astroalliance website with superior UI and functionality `[STATUS: Completed]``[Link - astroalliancenitb.in]`
 *   **QuantumLeap UI (MERN/FastAPI):** Crafting a next-gen user interface for decentralized data visualization, powered by FastAPI backend. `[STATUS: Prototyping]`
 *   **SystemShock Lib (C++):** A high-performance library for real-time physics calculations in embedded systems. `[STATUS: Alpha]`
-*   **(Your next groundbreaking project here!)**
 
 ---
 
