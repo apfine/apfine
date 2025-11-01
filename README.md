@@ -41,7 +41,7 @@
 
 > Status: `COMPILING_PROJECT_DATA...` Please stand by.
 
-*   **Astro Alliance Website** Developed complete astroalliance website with superior UI and functionality `[STATUS: Completed]``[Link - astroalliancenitb.in]`
+*   **Astro Alliance Website** Developed complete astroalliance website with superior UI and functionality `[STATUS: Completed]` `[astroalliancenitb.in]`
 *   **QuantumLeap UI (MERN/FastAPI):** Crafting a next-gen user interface for decentralized data visualization, powered by FastAPI backend. `[STATUS: Prototyping]`
 *   **SystemShock Lib (C++):** A high-performance library for real-time physics calculations in embedded systems. `[STATUS: Alpha]`
 
