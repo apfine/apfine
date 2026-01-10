@@ -54,11 +54,12 @@
 ### <span style="color: #00F0FF">03_ // SYSTEM_TELEMETRY</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apfine&show_icons=true&theme=algolia&hide_border=true&bg_color=0a0a0a&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&layout=compact&langs_count=6&theme=algolia&hide_border=true&bg_color=0a0a0a&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff" height="160" />
-</div>
 
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apfine&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/apfine/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/apfine/github-readme-stats)
+
+</div>
 
 ### <span style="color: #00F0FF">04_ // ESTABLISH_UPLINK</span>
 
