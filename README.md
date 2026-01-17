@@ -55,9 +55,9 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apfine&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/apfine/github-readme-stats)
+[](https://github-readme-stats.vercel.app/api?username=apfine&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/apfine/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/apfine/github-readme-stats)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/apfine/github-readme-stats)
 
 </div>
 
