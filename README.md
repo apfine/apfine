@@ -53,13 +53,7 @@
 
 ### <span style="color: #00F0FF">03_ // SYSTEM_TELEMETRY</span>
 
-<div align="center">
 
-[](https://github-readme-stats.vercel.app/api?username=apfine&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/apfine/github-readme-stats)
-
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/apfine/github-readme-stats)
-
-</div>
 
 ### <span style="color: #00F0FF">04_ // ESTABLISH_UPLINK</span>
 
