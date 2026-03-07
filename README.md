@@ -80,7 +80,7 @@
 | Repository | Directive | Status |
 |---|---|---|
 | **Submarine-SIH** | AI-powered camera automation system for autonomous submarines with marine life tracking and sign language translation capabilities. | ![Status](https://img.shields.io/badge/STATUS-DEPLOYED-39FF14?style=for-the-badge) |
-| **Swarm / Alox** | Core architecture, local AI processing, humanoid lab assistant intelligence, and drone configuration systems. | ![Status](https://img.shields.io/badge/STATUS-PROTOTYPE-FF2BD6?style=for-the-badge) |
+| **Swarm ** | Core architecture, local AI processing,  and drone configuration systems. | ![Status](https://img.shields.io/badge/STATUS-PROTOTYPE-FF2BD6?style=for-the-badge) |
 | **cpplib** | High-performance C++ core for algorithmic problem solving, reusable competitive programming logic, and optimized compute structures. | ![Status](https://img.shields.io/badge/STATUS-OPTIMIZED-00F7FF?style=for-the-badge) |
 | **FOODIE** | Full-stack interface engineering for responsive user workflows and production-grade digital interaction systems. | ![Status](https://img.shields.io/badge/STATUS-LIVE%20INTERFACE-39FF14?style=for-the-badge) |
 
