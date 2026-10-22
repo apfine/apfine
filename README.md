@@ -1,266 +1,133 @@
 <p align="center">
-  <img src="./ap_banner.svg" alt="Adarsh Pandey banner" width="100%" />
+  <img src="./ap_banner.svg" alt="Adarsh Pandey — Software Engineer · Machine Learning. Diffusion models, LLMs, and mixture of experts." width="100%" />
 </p>
 
 <div align="center">
 
 # Adarsh Pandey
 
-### AI Engineer • Product Builder • Embedded Systems Developer
+### Software Engineer · Machine Learning · Full-Stack Development
+
+Building generative models from first principles and turning ideas into useful software.
+
+[Portfolio](https://apworks.vercel.app) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/aphere) &nbsp; / &nbsp; [Email](mailto:aphere@outlook.in)
 
 <p>
-  I build intelligent products across AI, full-stack software, computer vision, and edge systems.
-  My work sits at the intersection of research-driven engineering and modern product design.
-</p>
-
-<p>
-  <a href="https://github.com/apfine">
-    <img src="https://img.shields.io/badge/GitHub-apfine-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/aphere">
-    <img src="https://img.shields.io/badge/LinkedIn-aphere-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-e11d48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Systems-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-4f46e5?style=flat-square" />
-  <img src="https://img.shields.io/badge/GenAI-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/MLOps-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-0891b2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full%20Stack-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Diffusion_Models-0f172a?style=flat-square" alt="Diffusion Models" />
+  <img src="https://img.shields.io/badge/LLMs-4338ca?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Mixture_of_Experts-0f766e?style=flat-square" alt="Mixture of Experts" />
+  <img src="https://img.shields.io/badge/Full_Stack-334155?style=flat-square" alt="Full Stack" />
 </p>
 
 </div>
 
 ---
 
-## Overview
+## About me
 
-I focus on building intelligent systems that are practical, scalable, and product-ready.  
-That includes LLM applications, GenAI workflows, CNN-based vision pipelines, backend architecture, modern frontend systems, and hardware-integrated AI products.
+I'm a software engineer developing in machine learning, with hands-on experience training diffusion models and understanding how generative models work from scratch. My interests span **diffusion models, large language models, and mixture of experts**, from their underlying mathematics and architectures to training and inference.
 
-I care about clean execution, fast learning loops, and building things that can move from prototype to real deployment.
+Alongside ML, I build full-stack applications, backend services, and interactive interfaces. I care about clear architecture, reliable software, and the engineering that takes an experiment into a usable product.
 
----
+## Machine learning, from first principles
 
-## What I Do
+| Area | Focus |
+| :--- | :--- |
+| **Diffusion models** | Hands-on model training; understanding forward noising, learned denoising, training objectives, and sampling from scratch. |
+| **LLMs** | Understanding language models from scratch: tokenization, embeddings, attention, transformer blocks, autoregressive training, and inference. |
+| **Mixture of experts** | Understanding MoE from scratch: expert networks, routing, sparse activation, and load balancing. |
+| **Applied ML** | NLP and semantic search, computer vision and CNNs, predictive modeling, inference APIs, and model deployment. |
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>AI Engineering</h3>
-      <p>
-        Applied machine learning, LLM integrations, GenAI pipelines, computer vision, CNNs,
-        inference systems, and production-facing AI workflows.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Product Development</h3>
-      <p>
-        Full-stack applications with modern frontend design, scalable backend systems,
-        strong architecture, and clean developer experience.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Edge + Robotics</h3>
-      <p>
-        Embedded systems, Jetson and Raspberry Pi deployments, ESP32-based builds,
-        and AI systems that interact with the physical world.
-      </p>
-    </td>
-  </tr>
-</table>
+## Selected work
 
----
-
-## Core Stack
-
-### AI / ML / GenAI
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-1f2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-4f46e5?style=flat-square" />
-  <img src="https://img.shields.io/badge/GenAI-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Transformers-8b5cf6?style=flat-square" />
-  <img src="https://img.shields.io/badge/CNNs-2563eb?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-0891b2?style=flat-square" />
-  <img src="https://img.shields.io/badge/YOLO-06b6d4?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-059669?style=flat-square" />
-  <img src="https://img.shields.io/badge/Model%20Deployment-0f766e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Inference%20Pipelines-155e75?style=flat-square" />
-</p>
-
-### Backend / Systems / Logic
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Architecture-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend%20Engineering-1f2937?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST%20APIs-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/Algorithms-4b5563?style=flat-square" />
-  <img src="https://img.shields.io/badge/Competitive%20Programming-6b7280?style=flat-square" />
-</p>
-
-### Frontend / Product / Interface
-
-<p>
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-0f172a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design%20Systems-1e293b?style=flat-square" />
-</p>
-
-### Hardware / Embedded / Edge
-
-<p>
-  <img src="https://img.shields.io/badge/Jetson-76b900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-a22846?style=flat-square&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-e11d48?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embedded%20C-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/PCB%20Design-475569?style=flat-square" />
-  <img src="https://img.shields.io/badge/Edge%20AI-0ea5e9?style=flat-square" />
-  <img src="https://img.shields.io/badge/IoT-0369a1?style=flat-square" />
-</p>
-
----
-
-## Featured Projects
+Four featured projects from [my portfolio](https://apworks.vercel.app).
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Submarine-SIH</h3>
-      <p>
-        AI-powered camera automation system for autonomous submarines, with marine life tracking
-        and sign language translation capabilities.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Computer%20Vision-2563eb?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI%20Systems-0f172a?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Flagship-111827?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Swarm</h3>
-      <p>
-        Core architecture and local AI processing for humanoid lab assistants and drone-based intelligent systems.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Robotics-059669?style=flat-square" />
-        <img src="https://img.shields.io/badge/Edge%20Inference-0f766e?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Active-1f2937?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>cpplib</h3>
-      <p>
-        A high-performance C++ library for reusable logic, algorithmic problem solving,
-        and efficient low-level utility design.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599c?style=flat-square" />
-        <img src="https://img.shields.io/badge/Algorithms-374151?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Ongoing-111827?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>FOODIE</h3>
-      <p>
-        A full-stack product interface focused on smooth UX, modern frontend patterns,
-        and practical backend integration.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Full%20Stack-7c3aed?style=flat-square" />
-        <img src="https://img.shields.io/badge/Product%20Design-4338ca?style=flat-square" />
-        <img src="https://img.shields.io/badge/Status-Live-0f172a?style=flat-square" />
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / DUNES</h3>
+<p><strong>Starbase Mars Simulator</strong></p>
+<p>A browser-based Mars driving and orbital flight simulator with procedural terrain, 0.38G physics, telemetry, atmospheric rendering, and a Starship launch sequence.</p>
+<p><sub>Three.js · WebGL · Next.js · GLSL</sub></p>
+<p><a href="https://playmars.vercel.app/">Explore DUNES ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / CARRYEM</h3>
+<p><strong>AI Career Platform</strong></p>
+<p>AI-powered resume generation, semantic job search, and candidate-to-role matching using NLP embeddings and sentence transformers.</p>
+<p><sub>Next.js · FastAPI · Python · spaCy · Sentence-Transformers</sub></p>
+<p><a href="https://carryem.vercel.app/">Explore CARRYEM ↗</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / Astro Alliance</h3>
+<p><strong>NIT Bhopal Astronomy Society</strong></p>
+<p>The society's official web platform, with celestial event schedules, interactive galleries, responsive member workflows, and animated interfaces.</p>
+<p><sub>Next.js · React · Tailwind CSS · Framer Motion</sub></p>
+<p><a href="https://astroalliancenitb.in">Visit Astro Alliance ↗</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Flexible Bento Grid</h3>
+<p><strong>Responsive Interface Design</strong></p>
+<p>A flexible Bento-style layout exploring responsive composition, CSS, and micro-interactions for portfolio and product interfaces.</p>
+<p><sub>Next.js · React · TypeScript · Tailwind CSS</sub></p>
+<p><a href="https://bentogrid1.vercel.app/">Explore the layout ↗</a> · <a href="https://github.com/apfine/BentoGrid">Source</a></p>
+</td>
+</tr>
 </table>
 
+**More software & ML work:** [FOODIE](https://foodie60.vercel.app) — CNN-based crop disease classification served through a REST API; [SAKH](https://sakhcredit.vercel.app) — credit risk prediction with XGBoost and FastAPI. I also work on reusable C++ utilities and algorithms through **cpplib**.
+
+## Open source
+
+Selected pull requests across ML tooling, agent systems, and developer experience. Statuses reflect the latest check; each link shows the current discussion.
+
+| Project | Contribution | Status |
+| :--- | :--- | :--- |
+| **Google Gemini CLI** | [Antigravity CLI discovery fallbacks across operating systems #22030](https://github.com/google-gemini/gemini-cli/pull/22030) | Merged |
+| **Mesa LLM** | [Warnings when loading and saving pickle-based recordings #181](https://github.com/mesa/mesa-llm/pull/181) | Merged |
+| **Mesa LLM** | [Pydantic-validated structured LLM decisions #188](https://github.com/mesa/mesa-llm/pull/188) | Open |
+| **Mesa LLM** | [JSONL streaming to bound recorder memory growth #183](https://github.com/mesa/mesa-llm/pull/183) | Open |
+| **Google Gemini CLI** | [tmux-safe thinking indicator #22067](https://github.com/google-gemini/gemini-cli/pull/22067) | Closed, unmerged |
+| **OpenAI-CLIP implementation** | [Dataset description correction #26](https://github.com/moein-shariatnia/OpenAI-CLIP/pull/26) | Open |
+
+[All public pull requests →](https://github.com/pulls?q=is%3Apr+author%3Aapfine+archived%3Afalse)
+
+## Engineering toolkit
+
+| Layer | Technologies & interests |
+| :--- | :--- |
+| **ML & data** | Python · PyTorch · TensorFlow · Keras · NumPy · Pandas · scikit-learn · XGBoost |
+| **Generative AI & vision** | Diffusion models · Transformers · LLMs · MoE · NLP · CNNs · OpenCV · YOLO |
+| **Backend & systems** | FastAPI · Flask · Node.js · Express · REST APIs · C++ · Algorithms · System architecture |
+| **Frontend & product** | React · Next.js · TypeScript · JavaScript · Tailwind CSS · Framer Motion · UI/UX · Design systems |
+| **Delivery & storage** | Git · Docker · AWS · Vercel · PostgreSQL · MongoDB · MLOps · Inference pipelines |
+
+## Current focus
+
+- Deepening model understanding through diffusion, transformer, and MoE implementations from scratch.
+- Connecting model training and evaluation with practical inference and deployment.
+- Shipping AI applications with reliable APIs and thoughtful interfaces.
+- Contributing to open source ML infrastructure and developer tools.
+
+<details>
+<summary><strong>GitHub activity</strong></summary>
+<br />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=apfine&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="Adarsh's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Most used languages on GitHub" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=apfine&amp;theme=transparent&amp;hide_border=true" alt="Adarsh's contribution streak" />
+</p>
+</details>
+
 ---
-
-## Current Focus
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Now</h3>
-      <p>
-        Building AI-native applications, LLM-powered workflows, CV systems,
-        and full-stack products with strong execution quality.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Next</h3>
-      <p>
-        Exploring local inference, MLOps pipelines, edge intelligence,
-        and software-hardware systems that can operate outside the lab.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=apfine&show_icons=true&theme=transparent&title_color=0f172a&text_color=475569&icon_color=2563eb&border_color=e2e8f0&hide_border=false" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apfine&layout=compact&theme=transparent&title_color=0f172a&text_color=475569&border_color=e2e8f0&hide_border=false" alt="Top languages" />
+  <strong>Build useful things. Design with intent. Ship with depth.</strong><br /><br />
+  <a href="https://apworks.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/aphere">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:aphere@outlook.in">Let's connect</a>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=apfine&theme=default&ring=2563eb&fire=2563eb&currStreakLabel=0f172a&sideLabels=475569&dates=64748b&border=e2e8f0" alt="GitHub streak" />
-</p>
-
----
-
-## Philosophy
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <strong>Build useful things</strong><br/>
-        Products should solve real problems, not just look impressive.
-      </td>
-      <td align="center" width="33%">
-        <strong>Design with intent</strong><br/>
-        Clean interfaces and clear systems create better outcomes.
-      </td>
-      <td align="center" width="33%">
-        <strong>Ship with depth</strong><br/>
-        Strong engineering matters when prototypes become real systems.
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## Connect
-
-<div align="center">
-  <a href="https://github.com/apfine"><strong>GitHub</strong></a>
-  &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/aphere"><strong>LinkedIn</strong></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:your-email@example.com"><strong>Email</strong></a>
-</div>
