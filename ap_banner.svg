@@ -1,49 +1,25 @@
-<svg width="800" height="180" xmlns="http://www.w3.org/2000/svg" style="font-family: 'Courier New', Courier, monospace;">
-    <defs>
-        <!-- Gradient for the shiny background -->
-        <linearGradient id="shinyBackgroundGradient" x1="50%" y1="0%" x2="50%" y2="100%">
-            <stop offset="0%" style="stop-color:#181828; stop-opacity:1" />    <!-- Lighter top -->
-            <stop offset="100%" style="stop-color:#0a0a1a; stop-opacity:1" /> <!-- Original base at bottom -->
-        </linearGradient>
-
-        <linearGradient id="neonTextGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#00FFFF; stop-opacity:1" />
-            <stop offset="50%" style="stop-color:#FF00FF; stop-opacity:1" />
-            <stop offset="100%" style="stop-color:#00FFFF; stop-opacity:1" />
-        </linearGradient>
-        <linearGradient id="lineGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color:#39FF14; stop-opacity:1" />
-            <stop offset="100%" style="stop-color:#00FFFF; stop-opacity:1" />
-        </linearGradient>
-        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-            <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-            <feMerge>
-                <feMergeNode in="coloredBlur"/>
-                <feMergeNode in="SourceGraphic"/>
-            </feMerge>
-        </filter>
-    </defs>
-
-    <!-- Rounded, shiny background rectangle -->
-    <rect x="0" y="0" width="100%" height="100%" rx="40" ry="40" fill="url(#shinyBackgroundGradient)" stroke="#1f1f30" stroke-width="1"/>
-
-    <!-- Main Title -->
-    <text x="50%" y="35%" dominant-baseline="middle" text-anchor="middle" font-size="48" fill="url(#neonTextGradient)" filter="url(#glow)" letter-spacing="3" style="font-weight: 700;">
-        Adarsh Pandey
-    </text>
-    <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" font-size="18" fill="#9A76F2" letter-spacing="2">
-        [ ΛPΞX PRØJECTS -> FUTURE FORGED ]
-    </text>
-
-    <!-- Animated "Data Stream" / "Loading Bar" -->
-    <rect x="10%" y="75%" width="80%" height="8" rx="4" ry="4" fill="#222" />
-    <rect x="10%" y="75%" width="0" height="8" rx="4" ry="4" fill="url(#lineGradient)" filter="url(#glow)">
-        <animate attributeName="width" values="0%;80%;0%" dur="4s" repeatCount="indefinite" />
-    </rect>
-
-    <!-- Bottom "System Status" Text -->
-    <text x="50%" y="92%" dominant-baseline="middle" text-anchor="middle" font-size="12" fill="#7FDBFF">
-        <tspan id="statusText">INITIALIZING CORE SYSTEMS...</tspan>
-        <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite" />
-    </text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Adarsh Pandey — Software Engineer · Machine Learning</title>
+  <desc id="desc">From first principles to useful software. Diffusion models, LLMs, and mixture of experts.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172139"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect x="56" y="58" width="38" height="4" rx="2" fill="url(#accent)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="56" y="103" fill="#5eead4" font-size="15" letter-spacing="3">APFINE / BUILD · TRAIN · SHIP</text>
+    <text x="52" y="171" fill="#f8fafc" font-size="56" font-weight="700">Adarsh Pandey</text>
+    <text x="56" y="216" fill="#cbd5e1" font-size="24">Software Engineer · Machine Learning</text>
+    <text x="56" y="255" fill="#94a3b8" font-size="18">From first principles to useful software.</text>
+    <text x="56" y="314" fill="#a5b4fc" font-size="14" letter-spacing="1">DIFFUSION MODELS / LLMs / MIXTURE OF EXPERTS</text>
+  </g>
+  <g fill="none" stroke="#5eead4" stroke-opacity=".35" stroke-width="1.5">
+    <path d="M870 100 L960 150 L1060 100 M870 180 L960 150 L1060 180 M870 260 L960 150 L1060 260"/>
+    <circle cx="960" cy="150" r="28" fill="#152b38"/>
+    <circle cx="870" cy="100" r="10"/><circle cx="870" cy="180" r="10"/><circle cx="870" cy="260" r="10"/>
+    <rect x="1047" y="87" width="26" height="26" rx="6"/><rect x="1047" y="167" width="26" height="26" rx="6"/><rect x="1047" y="247" width="26" height="26" rx="6"/>
+  </g>
 </svg>
